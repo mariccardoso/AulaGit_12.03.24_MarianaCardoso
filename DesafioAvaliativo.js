@@ -27,7 +27,6 @@ for (let i = inicio; i <= fim; i++) {
     }
 }
 // Exibir resultados
-console.log("Total de números ímpares: " + total);
-console.log("Soma: " + soma);
-console.log("Mariana de Castro Cardoso - 1TDS2");
+console.log("Total deímpares: " + total);
+console.log("Total soma: " + soma);
 
