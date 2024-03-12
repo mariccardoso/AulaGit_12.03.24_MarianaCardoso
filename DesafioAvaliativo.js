@@ -1,7 +1,7 @@
 
 // Solicitar os dois números 
-let a = 90;
-let b = 50;
+let y = 90;
+let z = 50;
 
 // Determinar o inicio e o fim: inicio sempre o menor número e o fim o maior
 let inicio = a;
