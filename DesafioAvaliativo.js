@@ -29,4 +29,5 @@ for (let i = inicio; i <= fim; i++) {
 // Exibir resultados
 console.log("Total de números ímpares: " + total);
 console.log("Soma: " + soma);
+console.log("Mariana de Castro Cardoso - 1TDS2");
 
