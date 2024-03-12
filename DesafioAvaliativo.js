@@ -27,6 +27,6 @@ for (let i = inicio; i <= fim; i++) {
     }
 }
 // Exibir resultados
-console.log("Total deímpares: " + total);
+console.log("Total de ímpares: " + total);
 console.log("Total soma: " + soma);
 
