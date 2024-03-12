@@ -3,7 +3,7 @@
 let a = 90;
 let b = 50;
 
-// Determinar o inicio e o fim
+// Determinar o inicio e o fim: inicio sempre o menor número e o fim o maior
 let inicio = a;
 let fim = b;
 
