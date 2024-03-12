@@ -27,6 +27,7 @@ for (let i = start; i <= end; i++) {
     }
 }
 // Exibir resultados
+//Números ímpares e soma
 console.log("Total de ímpares: " + impares);
 console.log("Total soma: " + soma);
 
